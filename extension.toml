@@ -1,0 +1,7 @@
+id = "tanuki"
+name = "Tanuki Themes"
+version = "0.0.1"
+schema_version = 1
+authors = ["Dylan Fontaine <me@dylf.dev>"]
+description = "Tanuki Themes"
+repository = "https://github.com/dylf/zed-tanuki"
