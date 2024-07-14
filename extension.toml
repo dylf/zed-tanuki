@@ -1,7 +1,7 @@
 id = "tanuki"
-name = "Tanuki Themes"
+name = "Tanuki Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["Dylan Fontaine <me@dylf.dev>"]
-description = "Tanuki Themes"
+description = "🦝 A Zed theme inspired by the GitLab Web IDE theme"
 repository = "https://github.com/dylf/zed-tanuki"
