@@ -12,4 +12,4 @@ A Zed theme based on GitLab's Web IDE themes. 🦝
 
 ## Tanuki Light
 
-_Coming soon..._
+![Tanuki Light](./assets/tanuki-light.png)
